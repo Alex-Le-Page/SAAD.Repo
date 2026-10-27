@@ -1,0 +1,17 @@
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\bin\Debug\net8.0\PgrStudentManagement.Adapters.API.deps.json
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\bin\Debug\net8.0\PgrStudentManagement.Adapters.API.dll
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\bin\Debug\net8.0\PgrStudentManagement.Adapters.API.pdb
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\bin\Debug\net8.0\PgrStudentManagement.Business.dll
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\bin\Debug\net8.0\PgrStudentManagement.Domain.dll
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\bin\Debug\net8.0\PgrStudentManagement.Business.pdb
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\bin\Debug\net8.0\PgrStudentManagement.Domain.pdb
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\PgrStudentManagement.Adapters.API.csproj.AssemblyReference.cache
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\PgrStudentManagement.Adapters.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\PgrStudentManagement.Adapters.API.AssemblyInfoInputs.cache
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\PgrStudentManagement.Adapters.API.AssemblyInfo.cs
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\PgrStudentManagement.Adapters.API.csproj.CoreCompileInputs.cache
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\PgrStude.40BA5B69.Up2Date
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\PgrStudentManagement.Adapters.API.dll
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\refint\PgrStudentManagement.Adapters.API.dll
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\PgrStudentManagement.Adapters.API.pdb
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Adapters.API\obj\Debug\net8.0\ref\PgrStudentManagement.Adapters.API.dll

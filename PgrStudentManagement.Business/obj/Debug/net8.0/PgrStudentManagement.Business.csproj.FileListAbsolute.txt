@@ -1,0 +1,15 @@
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\bin\Debug\net8.0\PgrStudentManagement.Business.deps.json
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\bin\Debug\net8.0\PgrStudentManagement.Business.dll
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\bin\Debug\net8.0\PgrStudentManagement.Business.pdb
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\bin\Debug\net8.0\PgrStudentManagement.Domain.dll
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\bin\Debug\net8.0\PgrStudentManagement.Domain.pdb
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\PgrStudentManagement.Business.csproj.AssemblyReference.cache
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\PgrStudentManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\PgrStudentManagement.Business.AssemblyInfoInputs.cache
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\PgrStudentManagement.Business.AssemblyInfo.cs
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\PgrStudentManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\PgrStude.06CEBBF4.Up2Date
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\PgrStudentManagement.Business.dll
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\refint\PgrStudentManagement.Business.dll
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\PgrStudentManagement.Business.pdb
+C:\Users\lepag\OneDrive\Documents\Uni\Year3\SAAD\PgrStudentManagement-week06-starter\PgrStudentManagement.Business\obj\Debug\net8.0\ref\PgrStudentManagement.Business.dll
